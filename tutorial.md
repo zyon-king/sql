@@ -1,5 +1,13 @@
 # SQL Tutorial
 ---
+# [Sintaxe](#sintaxe)
+# [Consultas](#consultas)
+# [Manipulação](#manipulacao)
+# [Funções](#funcoes)
+# [Junções](#juncoes)
+# [Agrupamento](#agrupamento)
+# [Avançados](#avancados)
+---
 ## 1. Introdução e Sintaxe
 - 1.1. SQL HOME
 - 1.2. SQL Intro
@@ -54,6 +62,6 @@
 - 6.1. SQL Group By
 - 6.2. SQL Having
 ---
-## 7. Outros
+## 7. Avançados
 - 7.1. SQL Stored Procedures
 - 7.2. SQL Comments
