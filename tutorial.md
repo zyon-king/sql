@@ -1,6 +1,6 @@
 # SQL Tutorial
 ---
-# [Sintaxe](#Introducao-e-Sintaxe)
+[1. Introdução e Sintaxe](#1-introdução-e-sintaxe)
 # [Consultas](#consultas)
 # [Manipulação](#manipulacao)
 # [Funções](#funcoes)
