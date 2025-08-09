@@ -1,50 +1,93 @@
 # SQL Tutorial
 ---
-## [SQL HOME](SQL-HOME.md)
-## [SQL Intro](SQL-Intro.md)
-## [SQL Syntax](SQL-Syntax.md)
-## [SQL Select](SQL-Select.md)
-## [SQL Select Distinct](SQL-Select-Distinct.md)
-## [SQL Where](SQL-Where.md)
-## [SQL Order By](SQL-Order-By.md)
-## [SQL And](SQL-And.md)
-## [SQL Or](SQL-Or.md)
-## [SQL Not](SQL-Not.md)
-## [SQL Insert Into](SQL-Insert-Into.md)
-## [SQL Null Values](SQL-Null-Values.md)
-## [SQL Update](SQL-Update.md)
-## [SQL Delete](SQL-Delete.md)
-## [SQL Select Top](SQL-Select-Top.md)
-## [SQL Aggregate Functions](SQL-Aggregate-Functions.md)
-## [SQL Min and Max](SQL-Min-and-Max.md)
-## [SQL Count](SQL-Count.md)
-## [SQL Sum](SQL-Sum.md)
-## [SQL Avg](SQL-Avg.md)
-## [SQL Like](SQL-Like.md)
-## [SQL Wildcards](SQL-Wildcards.md)
-## [SQL In](SQL-In.md)
-## [SQL Between](SQL-Between.md)
-## [SQL Aliases](SQL-Aliases.md)
-## [SQL Joins](SQL-Joins.md)
-## [SQL Inner Join](SQL-Inner-Join.md)
-## [SQL Left Join](SQL-Left-Join.md)
-## [SQL Right Join](SQL-Right-Join.md)
-## [SQL Full Join](SQL-Full-Join.md)
-## [SQL Self Join](SQL-Self-Join.md)
-## [SQL Union](SQL-Union.md)
-## [SQL Union All](SQL-Union-All.md)
-## [SQL Group By](SQL-Group-By.md)
-## [SQL Having](SQL-Having.md)
-## [SQL Exists](SQL-Exists.md)
-## [SQL Any, All](SQL-Any,-All.md)
-## [SQL Select Into](SQL-Select-Into.md)
-## [SQL Insert Into Select](SQL-Insert-Into-Select.md)
-## [SQL Case](SQL-Case.md)
-## [SQL Null Functions](SQL-Null-Functions.md)
-## [SQL Stored Procedures](SQL-Stored-Procedures.md)
-## [SQL Comments](SQL-Comments.md)
+## [SQL HOME](#sql-home)
 ---
-## SQL Operators
+## [SQL Intro](#sql-intro)
+---
+## [SQL Syntax](#sql-syntax)
+---
+## [SQL Select](#sql-select)
+---
+## [SQL Select Distinct](#sql-select-distinct)
+---
+## [SQL Where](#sql-where)
+---
+## [SQL Order By](#sql-order-by)
+---
+## [SQL And](#sql-and)
+---
+## [SQL Or](#sql-or)
+---
+## [SQL Not](#sql-not)
+---
+## [SQL Insert Into](#sql-insert-into)
+---
+## [SQL Null Values](#sql-null-values)
+---
+## [SQL Update](#sql-update)
+---
+## [SQL Delete](#sql-delete)
+---
+## [SQL Select Top](#sql-select-top)
+---
+## [SQL Aggregate Functions](#sql-aggregate-functions)
+---
+## [SQL Min and Max](#sql-min-and-max)
+---
+## [SQL Count](#sql-count)
+---
+## [SQL Sum](#sql-sum)
+---
+## [SQL Avg](#sql-avg)
+---
+## [SQL Like](#sql-like)
+---
+## [SQL Wildcards](#sql-wildcards)
+---
+## [SQL In](#sql-in)
+---
+## [SQL Between](#sql-between)
+---
+## [SQL Aliases](#sql-aliases)
+---
+## [SQL Joins](#sql-joins)
+---
+## [SQL Inner Join](#sql-inner-join)
+---
+## [SQL Left Join](#sql-left-join)
+---
+## [SQL Right Join](#sql-right-join)
+---
+## [SQL Full Join](#sql-full-join)
+---
+## [SQL Self Join](#sql-self-join)
+---
+## [SQL Union](#sql-union)
+---
+## [SQL Union All](#sql-union-all)
+---
+## [SQL Group By](#sql-group-by)
+---
+## [SQL Having](#sql-having)
+---
+## [SQL Exists](#sql-exists)
+---
+## [SQL Any, All](#sql-any-all)
+---
+## [SQL Select Into](#sql-select-into)
+---
+## [SQL Insert Into Select](#sql-insert-into-select)
+---
+## [SQL Case](#sql-case)
+---
+## [SQL Null Functions](#sql-null-functions)
+---
+## [SQL Stored Procedures](#sql-stored-procedures)
+---
+## [SQL Comments](#sql-comments)
+---
+## [SQL Operators](#sql-operators)
+---
 ## SQL Tutorial
 ---
 ## SQL Intro
