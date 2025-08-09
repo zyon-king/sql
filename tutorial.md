@@ -6,7 +6,7 @@
 # [Funções](#funcoes)
 # [Junções](#juncoes)
 # [Agrupamento](#agrupamento)
-# [Avançados](#avancados)
+# [Avançados](#7-avancados)
 ---
 ## 1. Introdução e Sintaxe
 - 1.1. SQL HOME
