@@ -1,12 +1,12 @@
 # SQL Tutorial
 ---
 [1. Introdução e Sintaxe](#1-introdução-e-sintaxe)
-# [Consultas](#consultas)
-# [Manipulação](#manipulacao)
-# [Funções](#funcoes)
-# [Junções](#juncoes)
-# [Agrupamento](#agrupamento)
-# [Avançados](#7-avancados)
+[2. Consultas Básicas (SELECT)](#2-consultas-básicas-select)
+[3. Manipulação de Dados (DML)](#3-manipulação-de-dados-dml)
+[4. Funções e Operadores](#4-funções-e-operadores)
+[5. Junções (Joins) e Combinações](#5-junções-joins-e-combinações)
+[6. Agrupamento e Filtragem](#6-agrupamento-e-filtragem)
+[7. Avançados](#7-avançados)
 ---
 ## 1. Introdução e Sintaxe
 - 1.1. SQL HOME
